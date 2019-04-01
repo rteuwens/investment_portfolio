@@ -1,4 +1,4 @@
-ticker,trade_date,buy_sell,quantity,price,currency
+ticker,trade_date,transtype,quantity,price,currency
 TSLA,14/12/2016,BUY,13,200.6,USD
 AAPL,28/02/2017,BUY,20,136.98,USD
 ASML,12/03/2017,BUY,13,116.55,EUR
